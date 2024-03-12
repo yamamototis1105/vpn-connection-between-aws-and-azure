@@ -50,4 +50,4 @@
    * 名前「sample-vm」、地域「(Asia Pacific) Japan East」、可用性オプション「インフラストラクチャ冗長は必要ありません」、セキュリティの種類「Standard」、イメージ「Red Hat Enterprise Linux」、VMアーキテクチャ「x64」、ユーザー名「(任意)」、パスワード「(任意)」、OSディスクの種類「Standard HDD(ローカル冗長ストレージ)」、仮想ネットワーク「sample-vnet」、サブネット「sample-subnet」、パブリックIP「なし」、NIC ネットワーク セキュリティグループ「なし」で作成。 
 
 ## 関連技術
-<img src="https://img.shields.io/badge/AWS-Site_to_Site_VPN-orange"></img> <img src="https://img.shields.io/badge/GCP-HA_VPN-blue"></img>
+<img src="https://img.shields.io/badge/AWS-Site_to_Site_VPN-orange"></img> <img src="https://img.shields.io/badge/Azure-VPN_Connection-blue"></img>
