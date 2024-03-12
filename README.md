@@ -38,8 +38,7 @@
    * 名前「sample-vnet」、地域「(Asia Pacific) Japan East」で作成。 
 1. サブネット作成
    * 名前「sample-subnet」、CIDR「10.0.1.0/24」で作成。
-1. Gatewayサブネット作成
-   * 名前「sample-subnet」、CIDR「10.0.1.0/24」で作成。
+   * 名前「sample-gateway-subnet」、CIDR「10.0.2.0/24」で作成。
 1. 仮想ネットワークゲートウェイ作成 
    * 名前「sample-vgw」、地域「Japan East」、ゲートウェイの種類「VPN」、VPNの種類「ルートベース」、SKU「VpnGW1」、世代「Generation1」、仮想ネットワーク「sample-vnet」、パブリックIPアドレス「新規作成」、パブリックIPアドレス名「sample-pip」、アクティブ/アクティブ モードの有効化「無効」、BGPの構成「有効」、自律システム番号「65515」、カスタムの Azure APIPA BGP IP アドレス「169.254.21.2, 169.254.22.2」で作成。 
 1. ローカルネットワークゲートウェイ×2作成 
