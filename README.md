@@ -2,7 +2,7 @@
 　本ドキュメントは、AWSとAzure間のVPN Connectionを構築するためのマニュアルです。<br/>
 以下の通り、VPN ConnectionでAWS VGW～Azure VGW間を接続します。<br/>
 
-![vpn-connection-between-aws-and-azure](https://github.com/yamamototis1105/vpn-connection-between-aws-and-azure/assets/114621183/1cb8ebf8-cd67-48b9-b962-900d846821c2)
+![](images/vpn-connection-between-aws-and-azure.png)
 
 ## 利用方法
 ### AWSインスタンス作成
