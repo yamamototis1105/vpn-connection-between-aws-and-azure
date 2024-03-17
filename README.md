@@ -57,7 +57,7 @@
    * 名前「sample-vgw」を削除。 
    * 名前「sample-pip」を削除。
 1. Vnet削除
-   * Vnet「sample-vnet」を削除
+   * Vnet「sample-vnet」を削除。。
 
 ## 関連技術
 <img src="https://img.shields.io/badge/AWS-Site_to_Site_VPN-orange"></img> <img src="https://img.shields.io/badge/Azure-Connection-blue"></img>
