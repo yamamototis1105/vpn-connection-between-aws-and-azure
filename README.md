@@ -7,7 +7,7 @@
 ## 利用方法
 ### AWS作成
 1. VPC作成
-   * 名前「sample-vpc」、IPv4 CIDRブロック「10.0.0.0/24」で作成。
+   * 名前「sample-vpc」、IPv4 CIDRブロック「10.0.0.0/24」で作成
    * 名前「sample-subnet」、アベイラビリティ―ゾーン「ap-northeast-1a」、IPv4 CIDRブロック「10.0.0.0/24」で作成。 
 1. 仮想プライベートゲートウェイ作成 
    * 名前「sample-vgw」、ASN「AmazonデフォルトASN(64512)」で作成。 
